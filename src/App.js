@@ -8,7 +8,7 @@ export default function App() {
 
     <footer>
       This project is coded by Liridona Osmani {""}
-    <a href="https://github.com/lirosm/react.searchengine" target="_blank">and is open-sourced on GitHub
+    <a href="https://github.com/lirosm/react.searchengine" target="_blank" rel="noreferrer">and is open-sourced on GitHub
     </a> 
    </footer> 
    
